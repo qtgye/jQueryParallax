@@ -1,0 +1,30 @@
+.wrapper {
+    
+}
+
+section:nth-child(1) {
+    background-image: url('http://www.wallpapersonview.com/wallpapers/4/landscape_amazing_nature_quality_lake_background_picture-107.jpg');
+}
+
+section:nth-child(2) {
+    background-image: url('http://www.desktopwallpaper2.com/desktop-wallpaper-home/Nordic-Landscape-background-widescreen-wallpaper-1680x1050-4-5423306520b1e-5240.jpg');
+}
+
+section:nth-child(3) {
+    background-image: url('http://2.bp.blogspot.com/-AA4pAwX9mvc/TkTKAxy1SGI/AAAAAAAAAEM/zeeHlOva2Ug/s1600/Beach_Lake_-_Olympic_National_Park%252C_Washington.jpgTPVyvQ&ust=1431598712350180');
+}
+
+section:nth-child(5) {
+    background-image: url('http://images.summitpost.org/original/637876.JPG');
+}
+
+section:nth-child(7) {
+    background-image: url('http://www.desktopwallpaper2.com/desktop-wallpaper-home/Nordic-Landscape-background-widescreen-wallpaper-1680x1050-4-5423306520b1e-5240.jpg');
+}
+
+section {
+    height: 100vh;
+    background-size: cover;
+    background-position: center top;
+    padding: 20px 5px;
+}
